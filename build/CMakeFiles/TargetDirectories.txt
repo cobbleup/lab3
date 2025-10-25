@@ -1,0 +1,3 @@
+/home/lk/codestuff/lab3/build/CMakeFiles/lab3.dir
+/home/lk/codestuff/lab3/build/CMakeFiles/edit_cache.dir
+/home/lk/codestuff/lab3/build/CMakeFiles/rebuild_cache.dir

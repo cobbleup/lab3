@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/lk/codestuff/lab3/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/lab3.dir/main.cpp.o -c /home/lk/codestuff/lab3/main.cpp",
+  "file": "/home/lk/codestuff/lab3/main.cpp",
+  "output": "CMakeFiles/lab3.dir/main.cpp.o"
+}
+]
